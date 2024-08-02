@@ -1,4 +1,5 @@
-## Hi there 👋
+  ## Hi👋, i'm Jerxon Correa
+  ####I'm study HTML5, CSS and JavaScript
 
 <!--
 **JaynAP1/JaynAp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
