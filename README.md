@@ -1,5 +1,15 @@
-  ## Hi👋, i'm Jerxon Correa
-  ####I'm study HTML5, CSS and JavaScript
+<h1>Hi, i'm Jerxon Correa 👋
+<h3>I'm study HTML5, CSS and JavaScript<h3>
+
+Welcome to my github, we have coffee 😄
+
+- 🔭 I'm 21 years 
+- ⚡ I liked eat 
+- 🤔 Basic manage of python 
+- 😄 I have a personal project [ClickMe](https://github.com/JaynAP1/Proyecto_Personal.git) 
+- 💬 Ask me about
+
+
 
 <!--
 **JaynAP1/JaynAp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
