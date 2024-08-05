@@ -14,8 +14,9 @@ Welcome to my github, we have coffee 😄
 </div>
 
 <div align="center">  
+   <img src="https://i.gifer.com/LRxK.gif](https://i.gifer.com/origin/d4/d4bc5f0812eb1e0568a0f5ab140606f0.gif" alt=""/> <br>
    <img src="https://komarev.com/ghpvc/?username=JaynAp1&style=for-the-badge&color=blue" alt=""/> <br>
-   <img src="https://i.gifer.com/LRxK.gif](https://i.gifer.com/origin/d4/d4bc5f0812eb1e0568a0f5ab140606f0.gif" alt=""/>
+   
 </div>
 
 <!--
