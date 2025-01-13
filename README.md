@@ -4,7 +4,7 @@
 Welcome to my github, we have coffee 😄
 
 - 🔭 I'm 21 years 
-- ⚡ I liked eat 
+- ⚡ I like eat 
 - 🤔 Basic manage of python 
 - 😄 I have a personal project [ClickMe](https://github.com/JaynAP1/Proyecto_Personal.git) 
 - 💬 Ask me about
