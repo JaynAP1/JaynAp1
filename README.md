@@ -14,10 +14,7 @@ Welcome to my github, we have coffee 😄
    <a href="instagram.com"><img width="40" height="40" src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/instagram.com/instagram-filled.svg" color="blue" /></a>
    <a href="https://x.com/?mx=2"><img width="40" height="40" src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/twitter.com/twitter.svg" color="blue" /></a>
 </div>
-<div align="center">
-   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JaynAp1&show_icons=true&theme=vision-friendly-dark"> <br>
-   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaynAp1&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</div>
+
 
 <div align="center">  
    <img src="https://i.gifer.com/LRxK.gif](https://i.gifer.com/origin/d4/d4bc5f0812eb1e0568a0f5ab140606f0.gif" alt=""/> <br>
