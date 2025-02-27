@@ -1,17 +1,18 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola :D!+👋;+Soy Jair Correa!;" />
+
+<div align="center">
+    <h1 align="center">
+    Hola, Soy Jerxon Correa 👋👋
 </h1>
 <h3>Estudiante de Campusland<h3>
 
 Bienvenido a mi GitHub, tenemos cafe😄
 
-- 🔭 Tengo 21 años
-- ⚡ Adoro comer y compartir tiempo de calidad con amigos y compañeros.
-- 🤔 Me dedico a esuchar y aprender, no puedo quedarme con lo minimo.
-- 💬 Pregunta cualquier cosa. 
-
-
-<div>
+🔭 Tengo 21 años
+⚡ Adoro comer y compartir tiempo de calidad con amigos y compañeros.
+🤔 Me dedico a esuchar y aprender, no puedo quedarme con lo minimo.
+💬 Pregunta cualquier cosa.
+</div>
+<div align="center"> 
    <a href="facebook.com"><img width="40" height="40" src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/facebook.com/facebook-circle.svg" color="blue" /></a>
    <a href="instagram.com"><img width="40" height="40" src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/instagram.com/instagram-filled.svg" color="blue" /></a>
    <a href="https://x.com/?mx=2"><img width="40" height="40" src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/twitter.com/twitter.svg" color="blue" /></a>
@@ -23,7 +24,6 @@ Bienvenido a mi GitHub, tenemos cafe😄
   <a href="www.linkedin.com/in/jerxon-correa-71870b338" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  
 </div>
 <div align="center">
    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JaynAp1&show_icons=true&theme=vision-friendly-dark"> <br>
