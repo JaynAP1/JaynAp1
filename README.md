@@ -1,15 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jair+Correa!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola :D!+👋;+Soy Jair Correa!;" />
 </h1>
-<h3>I'm study HTML5, CSS and JavaScript<h3>
+<h3>Estudiante de Campusland<h3>
 
-Welcome to my github, we have coffee 😄
+Bienvenido a mi GitHub, tenemos cafe😄
 
-- 🔭 I'm 21 years 
-- ⚡ I like eat 
-- 🤔 Basic manage of python 
-- 😄 I have a personal project [ClickMe](https://github.com/JaynAP1/Proyecto_Personal.git) 
-- 💬 Ask me about
+- 🔭 Tengo 21 años
+- ⚡ Adoro comer y compartir tiempo de calidad con amigos y compañeros.
+- 🤔 Me dedico a esuchar y aprender, no puedo quedarme con lo minimo.
+- 💬 Pregunta cualquier cosa. 
 
 
 <div>
