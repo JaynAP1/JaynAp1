@@ -16,6 +16,7 @@ Bienvenido a mi GitHub, tenemos cafe😄
    <a href="facebook.com"><img width="40" height="40" src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/facebook.com/facebook-circle.svg" color="blue" /></a>
    <a href="instagram.com"><img width="40" height="40" src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/instagram.com/instagram-filled.svg" color="blue" /></a>
    <a href="https://x.com/?mx=2"><img width="40" height="40" src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/twitter.com/twitter.svg" color="blue" /></a>
+    <p> Portafolio: https://stately-cocada-795b03.netlify.app/</p>
 </div>
 <div align="center"> 
   <a href="mailto:jerxonmjair@gmail.com">
