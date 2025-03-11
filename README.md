@@ -32,9 +32,8 @@ Bienvenido a mi GitHub, tenemos cafe😄
 
 
 <div align="center">  
-   <img src="https://komarev.com/ghpvc/?username=JaynAp1&style=for-the-badge&color=blue" alt=""/> <br>
    <img src="github-user-contribution.svg"/>
-   
+   <img src="https://komarev.com/ghpvc/?username=JaynAp1&style=for-the-badge&color=blue" alt=""/> <br>
 </div>
 
 <!--
